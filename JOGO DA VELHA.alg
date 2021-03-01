@@ -1,4 +1,5 @@
 /* 
+ *  Academia: Núcleo de Programação da Petrangol
  * Algoritmo : Jogo da Velha (X | 0) 
  * Autor : Paulo Pessoa
  * Disciplina : Lógica de Programação
